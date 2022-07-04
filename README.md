@@ -4,7 +4,7 @@ Me llamo Michael Montejo tengo 28 años y soy Bioingeniero de la Universidad El 
 actualmente me interesa realizar el curso bootcamp de desarrollo web con la finalidad
 de tener una avence en mi desarrollo profesional y realizar un cambio en mi vida personal
 
-## **Actualmente se lenguajes de programcion**
+## **Actualmente se lenguajes de programacion**
     1. Matlab
     2. Arduino
     3. C++
