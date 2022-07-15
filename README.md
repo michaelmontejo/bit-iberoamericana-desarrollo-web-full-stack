@@ -1,16 +1,14 @@
-# PRESENTACION PERSONAL
+# PERSONAL PRESENTATION
 
-Me llamo Michael Montejo tengo 28 años y soy Bioingeniero de la Universidad El Bosque,
-actualmente me interesa realizar el curso bootcamp de desarrollo web con la finalidad
-de tener una avence en mi desarrollo profesional y realizar un cambio en mi vida personal
+Mi name is Michael Montejo, I 28 years old, I'm Bioenginner of University El bosque, Currently I am interested in have do about course of web development my finally is have any advance in my professionar steps and i would like changed my life personal
 
-## **Actualmente se lenguajes de programacion**
+## **I CURRENTLY HANDLE PROGRAMMING LANGUAGE**
     1. Matlab
     2. Arduino
     3. C++
     4. Base de datos SQL 
 
-## **Mi meta aprender** 
+## **I WOULD LIKE LEARND** 
     1. HTML
     2. CSS
     3 JAVASCRIPT
