@@ -1,6 +1,6 @@
 # PERSONAL PRESENTATION
 
-Mi name is Michael Montejo, I 28 years old, I'm Bioenginner of University El bosque, Currently I am interested in have do about course of web development my finally is have any advance in my professionar steps and i would like changed my life personal
+Mi name is Michael Montejo, I'm 28 years old, I'm Bioenginner of University El bosque, Currently I am interested in have do about course of web development my finally is have any advance in my professionar steps and i would like changed my life personal
 
 ## **I CURRENTLY HANDLE PROGRAMMING LANGUAGE**
     1. Matlab
